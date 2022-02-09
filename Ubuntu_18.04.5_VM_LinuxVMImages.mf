@@ -1,0 +1,2 @@
+SHA256(Ubuntu_18.04.5_VM_LinuxVMImages.ovf)= a60350b24a760fae98baa4678edb3d76191cf52dfdbd4ad3299955e0f965e4d2
+SHA256(Ubuntu_18.04.5_VM_LinuxVMImages-disk1.vmdk)= cf97edf52bbb291fed39cfd90ecfddce519963b4554a71b0fc03e08634e35ee8
